@@ -1,1 +1,2 @@
 language = "python3"
+run = "python ps1a.py"
